@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D49FC23A-1F40-43BD-AF96-025A9D14859C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>N게시_관리자</RootNamespace>
-    <AssemblyName>N게시_관리자</AssemblyName>
+    <RootNamespace>admin_manage</RootNamespace>
+    <AssemblyName>admin_manage</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
