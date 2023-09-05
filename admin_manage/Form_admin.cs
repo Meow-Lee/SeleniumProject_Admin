@@ -11,7 +11,7 @@ using System.Windows.Forms;
 using FireSharp.Config;
 using FireSharp.Interfaces;
 
-namespace N게시_관리자
+namespace admin_manage
 {
     public partial class Form_admin : Form
     {
