@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace N게시_관리자
+namespace admin_manage
 {
     class Data
     {
