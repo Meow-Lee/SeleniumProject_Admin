@@ -21,7 +21,7 @@ namespace admin_manage
         }
         IFirebaseConfig fbc = new FirebaseConfig()
         {
-            AuthSecret = "AUTH",
+            AuthSecret = "AUTH", 
             BasePath = "PATH"
         };
         IFirebaseClient client;
