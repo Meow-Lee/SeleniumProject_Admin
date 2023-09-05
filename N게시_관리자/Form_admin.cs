@@ -21,8 +21,8 @@ namespace N게시_관리자
         }
         IFirebaseConfig fbc = new FirebaseConfig()
         {
-            AuthSecret = "QdFVDqfo0mn05RVXQbLTG104z0CgGTJm5M0GQK2S",
-            BasePath = "https://n-memberservice-default-rtdb.firebaseio.com/"
+            AuthSecret = "AUTH",
+            BasePath = "PATH"
         };
         IFirebaseClient client;
         private void Form_admin_Load(object sender, EventArgs e)
