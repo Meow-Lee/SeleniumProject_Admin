@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N게시_관리자", "N게시_관리자\N게시_관리자.csproj", "{D49FC23A-1F40-43BD-AF96-025A9D14859C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "admin_manage", "admin_manage\admin_manage.csproj", "{D49FC23A-1F40-43BD-AF96-025A9D14859C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
