@@ -1,5 +1,5 @@
 ﻿
-namespace N게시_관리자
+namespace admin_manage
 {
     partial class Form_admin
     {
