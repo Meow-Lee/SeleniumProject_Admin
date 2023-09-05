@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace N게시_관리자
+namespace admin_manage
 {
     static class Program
     {
